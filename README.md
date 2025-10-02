@@ -65,19 +65,17 @@ With 8+ years of experience building scalable software and leading cross-functio
 - **Data Science Diploma** (Institute of Management Professionals, 2020)  
 
 ---
-
-## 📈 **GitHub Activity**  
-*Consistent contribution history:*  
-![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssef-jad&show_icons=true&theme=dark)  
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=youssef-jad&bg_color=151515&color=ffffff&line=ff6b6b&point=ff6b6b&area=true&hide_border=true)  
-
+## 📈 **GitHub Activity (Public Repositories)**  
+*Note: Private repository contributions are not displayed publicly.*  
+![Youssef's Public GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssef-jad&show_icons=true&theme=dark)  
+![Public Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=youssef-jad&bg_color=151515&color=ffffff&line=ff6b6b&point=ff6b6b&area=true&hide_border=true)  
 ---
 
 ## 🌐 **Connect With Me**  
 - **LinkedIn**: [linkedin.com/u/youssef-jad](https://linkedin.com/u/youssef-jad)  
 - **Email**: youssef.jad@gmail.com  
 - **Phone**: +201212900081  
-- **Location**: Amman St., El Mohandiseen, Egypt  
+- **Location**: Zayed, Egypt  
 
 ---
 
