@@ -1,5 +1,5 @@
 # Youssef Jad 👨‍💻  
-**Senior Software Engineer | Tech Leader | Problem Solver**  
+**Tech Lead | Senior Software Engineer| Problem Solver**  
 
 With 8+ years of experience building scalable software and leading cross-functional teams, I specialize in backend development, system optimization, and agile project delivery. Passionate about writing clean code and mentoring engineers to drive innovation.  
 
