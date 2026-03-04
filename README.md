@@ -23,7 +23,7 @@ With 8+ years of experience building scalable software and leading cross-functio
 ## 💼 **Professional Experience**  
 *Key roles and accomplishments from my career journey:*  
 
-### **Senior Software Engineer**  
+### **Tech Lead | Senior Software Engineer**  
 **Inovola.co.uk / Zid.sa**  
 *Sep 2022 – Present*  
 - Contributing to a large-scale enterprise project, developing/maintaining Software Design Documents (SDD) and Product Requirement Documents (PRD).  
