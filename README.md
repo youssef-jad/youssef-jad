@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Location-Zayed,%20Egypt-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=youssef-jad&label=Profile%20views&color=f56217&style=flat" alt="Profile views" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=youssef-jad.youssef-jad&title=Profile%20views&color=f56217" alt="Profile views" />
 
 </div>
 
