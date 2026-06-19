@@ -94,12 +94,12 @@ location:      Zayed, Egypt 🇪🇬
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=youssef-jad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=f56217&icon_color=f56217" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=youssef-jad&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=f56217&icon_color=f56217" alt="GitHub Stats" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-jad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=f56217&langs_count=8" alt="Top Languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-jad&theme=tokyonight&hide_border=true&background=0D1117&ring=f56217&fire=f56217&currStreakLabel=f56217" alt="GitHub Streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=youssef-jad&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="Trophies" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=youssef-jad&theme=tokyo-night&bg_color=0D1117&color=f56217&line=f56217&point=ffffff&hide_border=true&area=true" alt="Contribution Activity Graph" />
 
 </div>
 
