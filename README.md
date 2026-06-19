@@ -17,7 +17,7 @@
 
 <!-- Social / contact badges -->
 <p>
-  <a href="https://linkedin.com/u/youssef-jad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/youssef-jad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:youssef.jad@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/youssef-jad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <img src="https://img.shields.io/badge/Location-Zayed,%20Egypt-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
@@ -42,6 +42,46 @@ currently:     Tech Lead @ Inovola / Zid.sa
 mission:       Build robust systems · Mentor engineers · Ship value
 location:      Zayed, Egypt 🇪🇬
 ```
+
+---
+
+## 🔭 Currently Building
+
+<a href="https://github.com/youssef-jad/GYO-AGENTS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=youssef-jad&repo=GYO-AGENTS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=f56217&icon_color=f56217" alt="GYO-AGENTS" />
+</a>
+
+**[GYO-AGENTS](https://github.com/youssef-jad/GYO-AGENTS)** — an open-source **MCP server exposing 24 tools across 11 AI coding agents** (Claude Code, Cursor, Cline, Kiro, Windsurf, and more). It turns any AI tool into a "Developer Digital Twin" with persistent, cross-project memory of how you build. Working at the frontier of AI-assisted engineering.
+
+---
+
+## 💡 What I Bring
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**🏛️ Architecture**
+
+Design and scale backend systems — modular monoliths, queue-driven workloads, and APIs built to last. I optimize for clarity and longevity, not cleverness.
+
+</td>
+<td valign="top" width="33%">
+
+**👥 Technical Leadership**
+
+8+ years leading cross-functional teams: code reviews, SDD/PRD ownership, Agile delivery, and mentoring engineers toward higher standards.
+
+</td>
+<td valign="top" width="33%">
+
+**⚡ Pragmatic Delivery**
+
+Ship value reliably — 150+ PRs to production, 90% test coverage, measurable performance wins. Clean code that teams can build on.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -87,6 +127,75 @@ location:      Zayed, Egypt 🇪🇬
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 </div>
+
+---
+
+## 🌟 Featured Projects
+
+<!--
+  TIP: Pin these on your profile (Profile → Customize your pins) so they appear
+  at the top. The strongest single move for "top talent" perception is adding a
+  clear README + demo link to each of these repos.
+-->
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [GYO-AGENTS](https://github.com/youssef-jad/GYO-AGENTS)
+![Stars](https://img.shields.io/github/stars/youssef-jad/GYO-AGENTS?style=flat&color=f56217&logo=github) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+A prompt-driven tool to **generate your own `AGENTS.md`** — standardizing how AI coding agents understand a repository. My most-starred public project and a signal of work at the AI-tooling frontier.
+
+</td>
+<td width="50%" valign="top">
+
+### 🏗️ [design-patterns](https://github.com/youssef-jad/design-patterns)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-green?style=flat)
+
+A practical reference of **software design patterns in PHP** — demonstrating the architecture fundamentals behind clean, maintainable backend systems.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ [Laravel-Json-Builder](https://github.com/youssef-jad/Laravel-Json-Builder)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-green?style=flat)
+
+A reusable Laravel trait that walks a model's columns and relations to **auto-build paginated JSON responses** — speeding up API development on non-complex resources.
+
+</td>
+<td width="50%" valign="top">
+
+### 💳 [queue-payment](https://github.com/youssef-jad/queue-payment)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+
+A Laravel implementation exploring **queue-driven payment processing** — handling asynchronous workloads reliably, a core backend-scaling pattern.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔌 [Nodejs-Socket-Emitter](https://github.com/youssef-jad/Nodejs-Socket-Emitter)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white)
+
+A lightweight **Socket.IO emitter** with an easy API for sending and tracking real-time events — backing my real-time systems experience.
+
+</td>
+<td width="50%" valign="top">
+
+### 🐳 [n8n-ollama-postgres-docker](https://github.com/youssef-jad/n8n-ollama-postgress-docker)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+
+A self-hosted **AI automation stack** — n8n + Ollama + Postgres in Docker — wiring local LLMs into workflow automation.
+
+</td>
+</tr>
+</table>
+
+> 📌 **34 public repositories** spanning PHP/Laravel backend tooling, real-time Node/Socket.IO services, and AI/automation experiments. [Browse them all →](https://github.com/youssef-jad?tab=repositories)
 
 ---
 
@@ -163,7 +272,7 @@ Developed **15+** new features for existing projects and migrated legacy systems
 
 <div align="center">
 
-<a href="https://linkedin.com/u/youssef-jad"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://linkedin.com/in/youssef-jad"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:youssef.jad@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="tel:+201212900081"><img src="https://img.shields.io/badge/Phone-%2B20%20121%20290%200081-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" /></a>
 
